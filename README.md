@@ -22,14 +22,16 @@ dengan 1 <= x <= p – 1
 # Enkripsi
 Mengambil nilai k secara acak, dengan k bernilai 
 1 <= k <= p–1 (juga ada yang menulis sampai p-2)
+
 Menghitung nilai C1 dan C2, yang mana : 
 C1   = g^k mod p 
 C2  = M.y^k mod p
+
 Jadi, ciphertext C yang dikirimkan adalah satu pasangan dengan dua nilai C1 dan C2 (terpisah).
 
 # Dekripsi
 Menghitung nilai C1x , yang mana :
- 	C1^x = (C1)^x mod p
+C1^x = (C1)^x mod p
 Menghitung nilai M = C2(C1^x)^-1 mod p
 
 Jadi, plaintext yg dikirimkan adalah satu huruf dari pasangan chipertext C1 dan C2 yaitu nilai M
