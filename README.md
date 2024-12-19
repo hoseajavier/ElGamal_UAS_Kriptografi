@@ -32,6 +32,7 @@ Jadi, ciphertext C yang dikirimkan adalah satu pasangan dengan dua nilai C1 dan 
 # Dekripsi
 Menghitung nilai C1x , yang mana :
 C1^x = (C1)^x mod p
+
 Menghitung nilai M = C2(C1^x)^-1 mod p
 
 Jadi, plaintext yg dikirimkan adalah satu huruf dari pasangan chipertext C1 dan C2 yaitu nilai M
