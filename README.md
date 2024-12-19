@@ -1,10 +1,12 @@
 # ElGamal_UAS_Kriptografi
 
 # Nama Anggota Kelompok
+|--|--|
 |Nama                         |NPM         |
 |Muhammad Miqdad Alfattah Josi|140810220005|
 |Evan Ahnaf Satyatama|140810220017|
 |Hosea Javier|140810220033|
+|--|--|
 
 # Deskripsi
 Algoritma ElGamal adalah algoritma kriptografi asimetris yang digunakan untuk enkripsi dan dekripsi data, serta untuk tanda tangan digital. Algoritma ini didasarkan pada prinsip Logaritma Diskrit dalam teori bilangan, yang membuatnya sulit dipecahkan dengan komputasi modern. Algoritma ini diperkenalkan oleh Tahar Elgamal pada tahun 1985.
