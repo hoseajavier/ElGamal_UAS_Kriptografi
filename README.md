@@ -1,8 +1,9 @@
 # ElGamal_UAS_Kriptografi
 
 # Nama Anggota Kelompok
-|--|--|
+|-----------------------------|------------|
 |Nama                         |NPM         |
+|-----------------------------|------------|
 |Muhammad Miqdad Alfattah Josi|140810220005|
 |Evan Ahnaf Satyatama|140810220017|
 |Hosea Javier|140810220033|
