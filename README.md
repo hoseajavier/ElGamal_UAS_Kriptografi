@@ -1,6 +1,6 @@
 # ElGamal_UAS_Kriptografi
 
-# Nama Anggota Kelompok
+# Nama Anggota Kelompok 24
 |Nama                         |NPM         |
 |-----------------------------|------------|
 |Muhammad Miqdad Alfattah Josi|140810220005|
